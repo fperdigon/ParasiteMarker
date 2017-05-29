@@ -1,0 +1,5 @@
+UI
+pyside-uic PM_UI.ui -o PM_UI.py
+
+Resources
+pyside-rcc -py2 -o resources.py resources.qrc 
